@@ -13,3 +13,7 @@ Binary Tree inorder Traverse(recursive approach)
 ## 10.27
 
 ### https://www.nowcoder.com/practice/196534628ca6490ebce2e336b47b3607?tpId=37&&tqId=21229&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
+
+## 10.28
+
+### https://www.nowcoder.com/practice/de044e89123f4a7482bd2b214a685201?tpId=37&&tqId=21231&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
