@@ -21,3 +21,7 @@ Binary Tree inorder Traverse(recursive approach)
 ## 10.30
 
 ### Two pieces of code from HUAWEI OD coding test
+
+## 10.31
+
+### 3 methods of binary tree traversal (recursion approaches) and postorder traversal
