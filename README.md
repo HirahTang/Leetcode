@@ -25,3 +25,7 @@ Binary Tree inorder Traverse(recursive approach)
 ## 10.31
 
 ### 3 methods of binary tree traversal (recursion approaches) and postorder traversal
+
+## 11.1
+
+Practice 1470. Shuffle the array
