@@ -31,3 +31,7 @@ Binary Tree inorder Traverse(recursive approach)
 Practice 1470. Shuffle the array
 
 Practice 6. Zigzag Conversion
+
+## 11.2
+
+X-tech interview
