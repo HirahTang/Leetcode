@@ -35,3 +35,7 @@ Practice 6. Zigzag Conversion
 ## 11.2
 
 X-tech interview
+
+## 11.10
+
+Practice 400. Nth Digit
