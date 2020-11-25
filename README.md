@@ -4,7 +4,7 @@ Leetcode practice
 ## 11.22
 
 No.977 Squares of a Sorted Array
-------------------------------------
+
 ## 10.26 
 
 ### Divide and Conquer
