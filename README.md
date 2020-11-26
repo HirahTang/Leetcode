@@ -1,6 +1,12 @@
 # Leetcode
 Leetcode practice
 
+## 11.26
+
+No.27 Remove Element
+
+No.88 Merge Sorted Array
+
 ## 11.22
 
 No.977 Squares of a Sorted Array
