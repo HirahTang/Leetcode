@@ -1,6 +1,12 @@
 # Leetcode
 Leetcode practice
 
+## 11.29
+
+26. Remove Duplicates from Sorted Array
+
+287. Find the Duplicate Number
+
 ## 11.26
 
 No.27 Remove Element
