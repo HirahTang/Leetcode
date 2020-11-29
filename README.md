@@ -3,6 +3,10 @@ Leetcode practice
 
 ## 11.29
 
+Some game programming (using turtle) referenced to YouTube Channel TokyoEdTech
+
+https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg
+
 26. Remove Duplicates from Sorted Array
 
 287. Find the Duplicate Number
