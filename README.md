@@ -1,6 +1,10 @@
 # Leetcode
 Leetcode practice
 
+## 11.30
+
+1346. Check If N and Its Double Exist
+
 ## 11.29
 
 Some game programming (using turtle) referenced to YouTube Channel TokyoEdTech
