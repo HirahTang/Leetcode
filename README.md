@@ -5,7 +5,7 @@ Leetcode practice
 
 941. Valid Mountain Array
 
-1299. Replace Elements with Greatest Element on Right Side
+No.1299 Replace Elements with Greatest Element on Right Side
 
 ## 11.30
 
