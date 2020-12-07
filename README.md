@@ -1,6 +1,12 @@
 # Leetcode
 Leetcode practice
 
+## 12.05
+
+No.283 Move Zeros
+
+No.905 Sort Array By Parity
+
 ## 12.01
 
 941. Valid Mountain Array
