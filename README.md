@@ -10,8 +10,11 @@ No.414 Third Maximum Number
 No.1323 Maximum 69 Number
 
 Weekly Contest 218 Virtual:
+
     No.1678
+ 
     No.1679
+    
     No.1680
 
 ## 12.06
