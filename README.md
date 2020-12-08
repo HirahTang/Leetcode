@@ -1,7 +1,15 @@
 # Leetcode
 Leetcode practice
 
-## 12.05
+## 12.08
+
+No.1051 Height Checker
+
+No.414 Third Maximum Number
+
+No.1323 Maximum 69 Number
+
+## 12.06
 
 No.283 Move Zeros
 
