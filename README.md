@@ -1,6 +1,10 @@
 # Leetcode
 Leetcode practice
 
+## 12.13
+
+Weekly Contest 219
+
 ## 12.08
 
 No.1051 Height Checker
