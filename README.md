@@ -1,6 +1,10 @@
 # Leetcode
 Leetcode practice
 
+## 12.26
+
+No.622 Design Circular Queue
+
 ## 12.19
 
 No.922 Sort By Parity II
