@@ -3,6 +3,8 @@ Leetcode practice
 
 ## 12.31
 
+No.752 Open the Lock
+
 No.200 Number of Islands - Breadth First Searching Approach
 
 ## 12.26
